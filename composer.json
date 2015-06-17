@@ -1,0 +1,17 @@
+{
+    "name": "toontilley/startbootstrap-scrolling-nav",
+    "description": "Scrolling Nav for Bootstrap",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "IronSummitMedia"
+        },
+        {
+            "name": "Mark Tilley"
+        }
+    ],
+    "require": {
+        "components/jquery": "2.1.4"
+    }
+    
+}
